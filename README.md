@@ -101,8 +101,10 @@ Ensuring the security and privacy of the data being transferred and logged is pa
 3.	Compliance: Adhering to relevant regulatory requirements and industry best practices to ensure data privacy and security.
 
 By addressing these considerations and continuously improving the audit log system, organizations can ensure the reliability, integrity, and security of their data transfer processes, supporting efficient and effective data management.
-![: Implementation of audit logs on Snowflake![image](https://github.com/user-attachments/assets/5bbd9df1-6225-4f00-a877-939a78013021)
-](https://github.com/user-attachments/assets/d7ee2869-1497-475d-9f97-64a9f23cad85)
+![Implementation of audit logs on Snowflake![image](https://github.com/user-attachments/assets/d08b9938-9ba7-40a8-bd09-1c56c0cc9079)
+](https://github.com/user-attachments/assets/acb480b5-b9be-45e0-b169-5171661bcd5f)
 
+
+Implementation of audit logs on Snowflake 
 
 
